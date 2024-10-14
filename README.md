@@ -1,7 +1,7 @@
 # DS_Projects
 # Data Science & Data Analysis Projects
 
-Welcome to my project repository! This repo contains a collection of my data science and data analysis projects, each demonstrating various techniques and tools like SQL, Power BI, Python, and machine learning. Below is a brief overview of each project.
+Welcome to my projects repo! This repo contains a collection of my data science and data analysis projects, each demonstrating various techniques and tools like SQL, Power BI, Python, and machine learning. Below is a brief overview of each project.
 
 ## Table of Contents
 1. [Pizza Sales Analysis](#pizza-sales-analysis)
