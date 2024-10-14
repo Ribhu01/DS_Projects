@@ -35,10 +35,4 @@ You can review SQl Queries in the attachted file [SQL queries](https://github.co
 
 
 
-
-
-
-
-
-
 Creating this dashboard was a valuable learning experience, especially in terms of mastering the use of parameters in Power BI. I’m looking forward to applying these insights to future projects, and I’m excited about the possibilities this opens up for more interactive and user-friendly data visualizations.
