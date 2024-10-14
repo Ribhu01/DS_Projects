@@ -11,5 +11,5 @@ This project analyzes pizza sales data using SQL, Power BI, and Excel to derive 
 - **pizza_sales.csv**: This dataset contains detailed information about pizza sales, including order IDs, pizza names, categories, sizes, quantities, and prices.(available on kaggle)
 
 ## SQL Queries Overview
-You can review SQl Queries in the attachted file [SQL queries](Pizza_sales_analysis/PIZZA SALES SQL QUERIES.docx)
+You can review SQl Queries in the attachted file [SQL queries](https://github.com/Ribhu01/DS_Projects/blob/main/Pizza_sales_analysis/PIZZA%20SALES%20SQL%20QUERIES.docx)
 
