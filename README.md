@@ -16,7 +16,7 @@ Welcome to my projects repo! This repo contains a collection of my data science 
   - SQL queries for total revenue, average order value, and pizza sales trends.
   - Power BI dashboard for visualizing sales performance by category, size, and time period.
   - used SSMS for execution of SQL queries.
-Check the [Pizza Sales Analysis Project](link-to-pizza-sales-analysis-folder) for more details.
+Check the [Pizza Sales Analysis Project](https://github.com/Ribhu01/DS_Projects/tree/main/Pizza_sales_analysis) for more details.
 
 ---
 
