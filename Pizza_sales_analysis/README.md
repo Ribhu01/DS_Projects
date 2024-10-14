@@ -27,12 +27,19 @@ You can review SQl Queries in the attachted file [SQL queries](https://github.co
 * Add Card chart, Area chart, Pie chart, Bar chart, Map etc
 * Add buttons to create an another page with Visuals for sales summary of pizza sales
 
-## insights
+## Insights
 * Busiest Days & Months: Orders are highest on weekends, specifically on Fridays and Saturdays. The months of July and January see the maximum orders.
 * Sales Performance by Category and Size: Classic category contributes the most to total sales and orders, and large-sized pizzas are the most popular.
-* Best and Worst Sellers: The Thai Chicken Pizza generates the most revenue, while the Classic Deluxe pizza tops the list for the number of pizzas sold and total orders.
+* Peak sales occur during the SECOND QUARTER of the year and JULY being the month with highest sale
+* Best seller - The Thai Chicken Pizza generates the most revenue, while the Classic Deluxe pizza tops the list for the number of pizzas sold and total orders.
 * The Brie Carre Pizza is the worst performer across all these metrics.
-
-
-
+* LARGE-sized pizzas are the most popular choice among customers, representing about 46% of total sales, followed by MEDIUM (30%) and SMALL (22%) sizes.
+*  Percentage share of total sales by all four Pizza Categories are almost same with CLASSIC category being the highest followed by SUPREME category.
 Creating this dashboard was a valuable learning experience, especially in terms of mastering the use of parameters in Power BI. I’m looking forward to applying these insights to future projects, and I’m excited about the possibilities this opens up for more interactive and user-friendly data visualizations.
+
+## Power BI Dashboard
+
+you can checkout and interact with my dashboard  here
+
+### snapshots of the dashboard
+
