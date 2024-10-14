@@ -42,4 +42,9 @@ Creating this dashboard was a valuable learning experience, especially in terms 
 you can checkout and interact with my dashboard  here
 
 ### snapshots of the dashboard
+ * overall sales
+![Salesreport(home)](https://github.com/user-attachments/assets/44d741d5-4b87-4dd5-ab6c-1d6b41e82744)
+
+* Summmary of performance based on revenue,quantity and order
+![Salesreport(summary)](https://github.com/user-attachments/assets/688c4b73-9e84-42be-a73f-c24c36b3af22)
 
