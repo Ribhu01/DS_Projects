@@ -20,6 +20,25 @@ This project involves web scraping movie data from a website, extracting various
   - `concurrent.futures` provides interfaces for running tasks using pools of thread or process workers
   - `urljoin` for adding new values to the base URL.
 
+## Data Fields
+
+The data extracted and saved includes:
+
+- **Title**: The name of the movie.
+- **Rating**: A rating for the movie on imdb.
+- **Director**: Name of the directors for the movie.
+- **Certification**: Contain movie rating based on age of the viewer.
+- **Release year**: Year the movie was released in.
+- **Metascore**: Metascore of the movies on imdb website.
+- **Genre**: Genre of the listed movies.
+- **Screen time**: Movie watch time in minutes.
+
+
+## Output
+
+- **CSV File**: The scraped data is saved to a file called [movie_data.csv](https://github.com/Ribhu01/DS_Projects/blob/main/IMDB_web_scrapping/movie_data.csv)
+
+
 ## How to Run
 
 1. Install required libraries: 
