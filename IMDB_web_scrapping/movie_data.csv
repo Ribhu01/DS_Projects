@@ -1,0 +1,251 @@
+,Genre,Metascore,Title,Directors,Ratings,Release year,Screen time,Certification
+0,"['Epic', 'Period Drama', 'Prison Drama', 'Tragedy', 'Drama']",82,1. The Shawshank Redemption,Frank Darabont,9.3,1994,142,15+
+1,"['Epic', 'Gangster', 'Tragedy', 'Crime', 'Drama']",100,2. The Godfather,Francis Ford Coppola,9.2,1972,175,15+
+2,"['Action Epic', 'Epic', 'Superhero', 'Action', 'Crime', 'Drama', 'Thriller']",84,3. The Dark Knight,Christopher Nolan,9.0,2008,152,12A
+3,"['Epic', 'Gangster', 'Tragedy', 'Crime', 'Drama']",90,4. The Godfather Part II,Francis Ford Coppola,9.0,1974,202,X
+4,"['Legal Drama', 'Psychological Drama', 'Crime', 'Drama']",97,5. 12 Angry Men,Sidney Lumet,9.0,1957,96,U
+5,"['Adventure Epic', 'Fantasy Epic', 'Mountain Adventure', 'Quest', 'Sword & Sorcery', 'Tragedy', 'Action', 'Adventure', 'Drama', 'Fantasy']",94,6. The Lord of the Rings: The Return of the King,Peter Jackson,9.0,2003,201,12A
+6,"['Epic', 'Historical Epic', 'Prison Drama', 'Biography', 'Drama', 'History']",95,7. Schindler's List,Steven Spielberg,9.0,1993,195,15+
+7,"['Dark Comedy', 'Drug Crime', 'Gangster', 'Crime', 'Drama']",95,8. Pulp Fiction,Quentin Tarantino,8.9,1994,154,18+
+8,"['Adventure Epic', 'Fantasy Epic', 'Quest', 'Sword & Sorcery', 'Action', 'Adventure', 'Drama', 'Fantasy']",92,9. The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,8.9,2001,178,PG-13
+9,"['Desert Adventure', 'Quest', 'Spaghetti Western', 'Western Epic', 'Adventure', 'Drama', 'Western']",90,"10. The Good, the Bad and the Ugly",Sergio Leone,8.8,1966,148,18+
+10,"['Epic', 'Drama', 'Romance']",82,11. Forrest Gump,Robert Zemeckis,8.8,1994,142,12+
+11,"['Adventure Epic', 'Dark Fantasy', 'Fantasy Epic', 'Quest', 'Sword & Sorcery', 'Action', 'Adventure', 'Drama', 'Fantasy']",87,12. The Lord of the Rings: The Two Towers,Peter Jackson,8.8,2002,179,12A
+12,"['Psychological Drama', 'Workplace Drama', 'Drama']",67,13. Fight Club,David Fincher,8.8,1999,139,15+
+13,"['Action Epic', 'Adventure Epic', 'Psychological Thriller', 'Sci-Fi Epic', 'Action', 'Adventure', 'Sci-Fi', 'Thriller']",74,14. Inception,Christopher Nolan,8.8,2010,148,12A
+14,"['Action Epic', 'Adventure Epic', 'Dark Fantasy', 'Fantasy Epic', 'Quest', 'Sci-Fi Epic', 'Space Sci-Fi', 'Sword & Sorcery', 'Action', 'Adventure']",82,15. Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,8.7,1980,124,U
+15,"['Action Epic', 'Artificial Intelligence', 'Cyberpunk', 'Dystopian Sci-Fi', 'Gun Fu', 'Martial Arts', 'Sci-Fi Epic', 'Action', 'Sci-Fi']",73,16. The Matrix,Lana Wachowski,8.7,1999,136,15+
+16,"['Gangster', 'True Crime', 'Biography', 'Crime', 'Drama']",92,17. GoodFellas,Martin Scorsese,8.7,1990,145,18+
+17,"['Medical Drama', 'Psychological Drama', 'Drama']",84,18. One Flew Over the Cuckoo's Nest,Milos Forman,8.7,1975,133,X
+18,"['Adventure Epic', 'Quest', 'Sci-Fi Epic', 'Space Sci-Fi', 'Adventure', 'Drama', 'Sci-Fi']",74,19. Interstellar,Christopher Nolan,8.7,2014,169,12A
+19,"['Cop Drama', 'Hard-boiled Detective', 'Legal Drama', 'Police Procedural', 'Psychological Thriller', 'Serial Killer', 'Crime', 'Drama', 'Mystery', 'Thriller']",65,20. Seven,David Fincher,8.6,1995,127,18+
+20,"['Feel-Good Romance', 'Holiday Family', 'Holiday Romance', 'Psychological Drama', 'Drama', 'Family', 'Fantasy', 'Holiday', 'Romance']",89,21. It's a Wonderful Life,Frank Capra,8.6,1946,130,U
+21,"['Action Epic', 'Epic', 'Period Drama', 'Samurai', 'Action', 'Drama']",98,22. Seven Samurai,Akira Kurosawa,8.6,1954,207,PG-13
+22,"['Police Procedural', 'Psychological Drama', 'Psychological Thriller', 'Serial Killer', 'Crime', 'Drama', 'Thriller']",86,23. The Silence of the Lambs,Jonathan Demme,8.6,1991,118,18+
+23,"['Epic', 'War Epic', 'Drama', 'War']",91,24. Saving Private Ryan,Steven Spielberg,8.6,1998,169,15+
+24,"['Coming-of-Age', 'Gangster', 'Crime', 'Drama']",79,25. City of God,Fernando Meirelles,8.6,2002,130,18+
+25,"['Period Drama', 'Tragedy', 'Tragic Romance', 'Comedy', 'Drama', 'Romance', 'War']",58,26. Life Is Beautiful,Roberto Benigni,8.6,1997,116,PG-13
+26,"['Period Drama', 'Prison Drama', 'Supernatural Fantasy', 'Tragedy', 'Crime', 'Drama', 'Fantasy', 'Mystery']",61,27. The Green Mile,Frank Darabont,8.6,1999,189,18+
+27,"['Action Epic', 'Artificial Intelligence', 'Cyberpunk', 'Dystopian Sci-Fi', 'Sci-Fi Epic', 'Time Travel', 'Action', 'Adventure', 'Sci-Fi']",75,28. Terminator 2: Judgment Day,James Cameron,8.6,1991,137,15+
+28,"['Action Epic', 'Adventure Epic', 'Fantasy Epic', 'Quest', 'Sci-Fi Epic', 'Space Sci-Fi', 'Sword & Sorcery', 'Action', 'Adventure', 'Fantasy']",90,29. Star Wars: Episode IV - A New Hope,George Lucas,8.6,1977,121,U
+29,"['High-Concept Comedy', 'Teen Adventure', 'Teen Comedy', 'Time Travel', 'Adventure', 'Comedy', 'Sci-Fi']",87,30. Back to the Future,Robert Zemeckis,8.5,1985,116,PG-13
+30,"['Anime', 'Coming-of-Age', 'Fairy Tale', 'Hand-Drawn Animation', 'Supernatural Fantasy', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Mystery']",96,31. Spirited Away,Hayao Miyazaki,8.6,2001,124,PG-13
+31,"['Docudrama', 'Epic', 'Period Drama', 'Tragedy', 'War Epic', 'Biography', 'Drama', 'Music', 'War']",85,32. The Pianist,Roman Polanski,8.5,2002,150,15+
+32,"['Dark Comedy', 'Psychological Thriller', 'Drama', 'Thriller']",97,33. Parasite,Bong Joon Ho,8.5,2019,132,15+
+33,"['Psychological Horror', 'Psychological Thriller', 'Slasher Horror', 'Suspense Mystery', 'Horror', 'Mystery', 'Thriller']",97,34. Psycho,Alfred Hitchcock,8.5,1960,109,15+
+34,"['Action Epic', 'Epic', 'Period Drama', 'Sword & Sandal', 'Action', 'Adventure', 'Drama']",67,35. Gladiator,Ridley Scott,8.5,2000,155,15+
+35,"['Animal Adventure', 'Coming-of-Age', 'Hand-Drawn Animation', 'Jungle Adventure', 'Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Musical']",88,36. The Lion King,Roger Allers,8.5,1994,88,U
+36,"['Computer Animation', 'Superhero', 'Supernatural Fantasy', 'Teen Adventure', 'Urban Adventure', 'Action', 'Adventure', 'Animation', 'Fantasy', 'Sci-Fi']",86,37. Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,8.6,2023,140,PG-13
+37,"['Cop Drama', 'Gangster', 'Crime', 'Drama', 'Thriller']",85,38. The Departed,Martin Scorsese,8.5,2006,151,18+
+38,"['Psychological Drama', 'Drama', 'Music']",89,39. Whiplash,Damien Chazelle,8.5,2014,106,15+
+39,"['Adult Animation', 'Anime', 'Hand-Drawn Animation', 'Animation', 'Drama', 'War']",94,40. Grave of the Fireflies,Isao Takahata,8.5,1988,88,12A
+40,"['Prison Drama', 'Tragedy', 'Crime', 'Drama']",62,41. American History X,Tony Kaye,8.5,1998,119,18+
+41,"['Gangster', 'One-Person Army Action', 'Action', 'Crime', 'Drama', 'Thriller']",64,42. Leon,Luc Besson,8.5,1994,110,18+
+42,"['Period Drama', 'Steampunk', 'Tragedy', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",66,43. The Prestige,Christopher Nolan,8.5,2006,130,12A
+43,"['Period Drama', 'Samurai', 'Action', 'Drama', 'Mystery']",85,44. Harakiri,Masaki Kobayashi,8.6,1962,133,X
+44,"['Gangster', 'Heist', 'Psychological Drama', 'Psychological Thriller', 'Suspense Mystery', 'Whodunnit', 'Crime', 'Drama', 'Mystery', 'Thriller']",76,45. The Usual Suspects,Bryan Singer,8.5,1995,106,18+
+45,"['Drama', 'Romance', 'War']",100,46. Casablanca,Michael Curtiz,8.5,1942,102,U
+46,"['Action Epic', 'Desert Adventure', 'Epic', 'Sci-Fi Epic', 'Space Sci-Fi', 'Action', 'Adventure', 'Drama', 'Sci-Fi']",79,47. Dune: Part Two,Denis Villeneuve,8.5,2024,166,12A
+47,"['Docudrama', 'Comedy', 'Drama']",57,48. Untouchable,Olivier Nakache,8.5,2011,112,15+
+48,"['Coming-of-Age', 'Drama', 'Romance']",80,49. Cinema Paradiso,Giuseppe Tornatore,8.5,1988,174,PG-13
+49,"['Slapstick', 'Comedy', 'Drama', 'Romance']",96,50. Modern Times,Charles Chaplin,8.5,1936,87,U
+50,"['Cyberpunk', 'Monster Horror', 'Space Sci-Fi', 'Horror', 'Sci-Fi']",89,51. Alien,Ridley Scott,8.5,1979,117,X
+51,"['Suspense Mystery', 'Mystery', 'Thriller']",100,52. Rear Window,Alfred Hitchcock,8.5,1954,112,PG-13
+52,"['Desert Adventure', 'Spaghetti Western', 'Western Epic', 'Drama', 'Western']",82,53. Once Upon a Time in the West,Sergio Leone,8.5,1968,166,12+
+53,"['Dark Comedy', 'Period Drama', 'Western Epic', 'Comedy', 'Drama', 'Western']",81,54. Django Unchained,Quentin Tarantino,8.5,2012,165,18+
+54,"['Feel-Good Romance', 'Romantic Comedy', 'Slapstick', 'Comedy', 'Drama', 'Romance']",99,55. City Lights,Charles Chaplin,8.5,1931,87,U
+55,"['Adventure Epic', 'Epic', 'Psychological Drama', 'Quest', 'War Epic', 'Drama', 'Mystery', 'War']",94,56. Apocalypse Now,Francis Ford Coppola,8.4,1979,147,X
+56,"['Psychological Thriller', 'Suspense Mystery', 'Mystery', 'Thriller']",83,57. Memento,Christopher Nolan,8.4,2000,113,15+
+57,"['Adventure Epic', 'Artificial Intelligence', 'Computer Animation', 'Dystopian Sci-Fi', 'Space Sci-Fi', 'Adventure', 'Animation', 'Family', 'Sci-Fi']",95,58. WALL·E,Andrew Stanton,8.4,2008,98,U
+58,"['Adventure Epic', 'Desert Adventure', 'Globetrotting Adventure', 'Quest', 'Action', 'Adventure']",86,59. Raiders of the Lost Ark,Steven Spielberg,8.4,1981,115,PG-13
+59,"['Docudrama', 'Biography', 'Drama']",N/A,60. 12th Fail,Vidhu Vinod Chopra,8.8,2023,147,12A
+60,"['Political Thriller', 'Psychological Drama', 'Spy', 'Drama', 'Mystery', 'Thriller']",89,61. The Lives of Others,Florian Henckel von Donnersmarck,8.4,2006,137,15+
+61,"['Film Noir', 'Psychological Drama', 'Showbiz Drama', 'Tragedy', 'Drama']",94,62. Sunset Blvd.,Billy Wilder,8.4,1950,110,PG-13
+62,"['Space Sci-Fi', 'Superhero', 'Action', 'Adventure', 'Sci-Fi']",68,63. Avengers: Infinity War,Anthony Russo,8.4,2018,149,12A
+63,"['Drama', 'War']",90,64. Paths of Glory,Stanley Kubrick,8.4,1957,88,PG-13
+64,"['Computer Animation', 'Superhero', 'Supernatural Fantasy', 'Teen Adventure', 'Urban Adventure', 'Action', 'Adventure', 'Animation', 'Comedy', 'Family']",87,65. Spider-Man: Into the Spider-Verse,Bob Persichetti,8.4,2018,117,PG-13
+65,"['Legal Drama', 'Legal Thriller', 'Crime', 'Drama', 'Mystery', 'Thriller']",76,66. Witness for the Prosecution,Billy Wilder,8.4,1957,116,U
+66,"['Psychological Drama', 'Psychological Horror', 'Supernatural Horror', 'Drama', 'Horror']",68,67. The Shining,Stanley Kubrick,8.4,1980,146,X
+67,"['Parody', 'Satire', 'Slapstick', 'Comedy', 'Drama', 'War']",N/A,68. The Great Dictator,Charles Chaplin,8.4,1940,125,PG-13
+68,"['Alien Invasion', 'Cyberpunk', 'Space Sci-Fi', 'Action', 'Adventure', 'Sci-Fi', 'Thriller']",84,69. Aliens,James Cameron,8.4,1986,137,18+
+69,"['Dark Comedy', 'Adventure', 'Drama', 'War']",69,70. Inglourious Basterds,Quentin Tarantino,8.4,2009,153,18+
+70,"['Action Epic', 'Epic', 'Superhero', 'Action', 'Drama', 'Thriller']",78,71. The Dark Knight Rises,Christopher Nolan,8.4,2012,164,12A
+71,"['Computer Animation', 'Supernatural Fantasy', 'Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Music', 'Mystery']",81,72. Coco,Lee Unkrich,8.4,2017,105,PG-13
+72,"['Costume Drama', 'Period Drama', 'Tragedy', 'Biography', 'Drama', 'Music']",87,73. Amadeus,Milos Forman,8.4,1984,160,PG-13
+73,"['Buddy Comedy', 'Computer Animation', 'Supernatural Fantasy', 'Urban Adventure', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",96,74. Toy Story,John Lasseter,8.3,1995,81,PG-13
+74,"['Dark Comedy', 'Political Drama', 'Satire', 'Comedy', 'War']",97,75. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,8.3,1964,95,PG-13
+75,"['One-Person Army Action', 'Psychological Thriller', 'Action', 'Drama', 'Mystery', 'Thriller']",78,76. Oldboy,Park Chan-wook,8.3,2003,0,18+
+76,"['Psychological Drama', 'Tragedy', 'Drama']",84,77. American Beauty,Sam Mendes,8.3,1999,122,18+
+77,"['Space Sci-Fi', 'Superhero', 'Time Travel', 'Tragedy', 'Action', 'Adventure', 'Drama', 'Sci-Fi']",78,78. Avengers: Endgame,Anthony Russo,8.4,2019,181,12A
+78,"['War Epic', 'Drama', 'War']",85,79. Das Boot,Wolfgang Petersen,8.4,1981,149,AA
+79,"['Costume Drama', 'Epic', 'Period Drama', 'War Epic', 'Biography', 'Drama', 'War']",68,80. Braveheart,Mel Gibson,8.3,1995,178,15+
+80,"['Coming-of-Age', 'Psychological Drama', 'Drama', 'Romance']",71,81. Good Will Hunting,Gus Van Sant,8.3,1997,126,15+
+81,"['Action Epic', 'Adult Animation', 'Adventure Epic', 'Anime', 'Dark Fantasy', 'Fantasy Epic', 'Hand-Drawn Animation', 'Quest', 'Action', 'Adventure']",76,82. Princess Mononoke,Hayao Miyazaki,8.3,1997,133,PG-13
+82,"['Anime', 'Shōjo', 'Animation', 'Drama', 'Fantasy', 'Romance']",81,83. Your Name.,Makoto Shinkai,8.4,2016,106,12A
+83,"['Psychological Drama', 'Psychological Thriller', 'Tragedy', 'Crime', 'Drama', 'Thriller']",59,84. Joker,Todd Phillips,8.4,2019,122,15+
+84,"['Police Procedural', 'Crime', 'Drama', 'Mystery', 'Thriller']",90,85. High and Low,Akira Kurosawa,8.4,1963,143,12+
+85,"['Comedy', 'Drama']",67,86. 3 Idiots,Rajkumar Hirani,8.4,2009,170,12A
+86,"['Dark Comedy', 'Epic', 'Gangster', 'Period Drama', 'Crime', 'Drama']",75,87. Once Upon a Time in America,Sergio Leone,8.3,1984,229,18+
+87,"['Classic Musical', 'Feel-Good Romance', 'Jukebox Musical', 'Romantic Comedy', 'Comedy', 'Musical', 'Romance']",99,88. Singin' in the Rain,Stanley Donen,8.3,1952,103,U
+88,['Drama'],75,89. Capernaum,Nadine Labaki,8.4,2018,126,15+
+89,"['Epic', 'Period Drama', 'Tragedy', 'War Epic', 'Drama', 'Thriller', 'War']",N/A,90. Come and See,Elem Klimov,8.4,1985,142,15+
+90,"['Psychological Drama', 'Tragedy', 'Drama']",71,91. Requiem for a Dream,Darren Aronofsky,8.3,2000,102,18+
+91,"['Computer Animation', 'Supernatural Fantasy', 'Urban Adventure', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",92,92. Toy Story 3,Lee Unkrich,8.3,2010,103,PG-13
+92,"['Action Epic', 'Adventure Epic', 'Fantasy Epic', 'Sci-Fi Epic', 'Space Sci-Fi', 'Sword & Sorcery', 'Action', 'Adventure', 'Fantasy', 'Sci-Fi']",58,93. Star Wars: Episode VI - Return of the Jedi,Richard Marquand,8.3,1983,131,PG-13
+93,"['Psychological Drama', 'Tragedy', 'Drama']",77,94. The Hunt,Thomas Vinterberg,8.3,2012,115,15+
+94,"['Dark Romance', 'Psychological Drama', 'Drama', 'Romance', 'Sci-Fi']",89,95. Eternal Sunshine of the Spotless Mind,Michel Gondry,8.3,2004,108,15+
+95,"['Adventure Epic', 'Artificial Intelligence', 'Sci-Fi Epic', 'Space Sci-Fi', 'Adventure', 'Sci-Fi']",84,96. 2001: A Space Odyssey,Stanley Kubrick,8.3,1968,149,U
+96,"['Psychological Drama', 'Tragedy', 'Drama']",92,97. Ikiru,Akira Kurosawa,8.3,1952,143,PG-13
+97,"['Gangster', 'Heist', 'Crime', 'Thriller']",81,98. Reservoir Dogs,Quentin Tarantino,8.3,1992,99,18+
+98,"['Adventure Epic', 'Desert Adventure', 'War Epic', 'Adventure', 'Biography', 'Drama', 'War']",100,99. Lawrence of Arabia,David Lean,8.3,1962,227,PG-13
+99,"['Holiday Comedy', 'Holiday Romance', 'Romantic Comedy', 'Comedy', 'Drama', 'Holiday', 'Romance']",94,100. The Apartment,Billy Wilder,8.3,1960,125,PG-13
+100,"['Suspense Mystery', 'Drama', 'Mystery', 'War']",80,101. Incendies,Denis Villeneuve,8.3,2010,131,15+
+101,"['Drug Crime', 'Epic', 'Gangster', 'Tragedy', 'Crime', 'Drama']",65,102. Scarface,Brian De Palma,8.3,1983,170,18+
+102,"['Spy', 'Action', 'Adventure', 'Mystery', 'Thriller']",98,103. North by Northwest,Alfred Hitchcock,8.3,1959,136,PG-13
+103,"['Film Noir', 'Hard-boiled Detective', 'Crime', 'Drama', 'Mystery', 'Thriller']",95,104. Double Indemnity,Billy Wilder,8.3,1944,107,A
+104,"['Epic', 'Drama', 'Mystery']",100,105. Citizen Kane,Orson Welles,8.3,1941,119,A
+105,"['Docudrama', 'Epic', 'Historical Epic', 'Period Drama', 'Psychological Drama', 'Biography', 'Drama', 'History']",90,106. Oppenheimer,Christopher Nolan,8.3,2023,0,15+
+106,"['Psychological Thriller', 'Serial Killer', 'Suspense Mystery', 'Crime', 'Mystery', 'Thriller']",N/A,107. M,Fritz Lang,8.3,1931,117,PG-13
+107,"['Psychological Thriller', 'Suspense Mystery', 'Mystery', 'Romance', 'Thriller']",100,108. Vertigo,Alfred Hitchcock,8.3,1958,128,PG-13
+108,"['Cop Drama', 'Epic', 'Gangster', 'Heist', 'Action', 'Crime', 'Drama']",76,109. Heat,Michael Mann,8.3,1995,170,15+
+109,"['Period Drama', 'Drama', 'War']",78,110. Full Metal Jacket,Stanley Kubrick,8.2,1987,116,18+
+110,"['Feel-Good Romance', 'Quirky Comedy', 'Romantic Comedy', 'Comedy', 'Romance']",70,111. Amélie,Jean-Pierre Jeunet,8.3,2001,122,15+
+111,"['Coming-of-Age', 'Computer Animation', 'Globetrotting Adventure', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",88,112. Up,Pete Docter,8.3,2009,96,U
+112,"['Dark Comedy', 'Dystopian Sci-Fi', 'Crime', 'Sci-Fi']",77,113. A Clockwork Orange,Stanley Kubrick,8.2,1971,136,X
+113,"['Legal Drama', 'Crime', 'Drama']",88,114. To Kill a Mockingbird,Robert Mulligan,8.3,1962,129,PG-13
+114,"['Legal Drama', 'Psychological Drama', 'Drama']",95,115. A Separation,Asghar Farhadi,8.3,2011,123,PG-13
+115,"['Caper', 'Comedy', 'Crime', 'Drama']",83,116. The Sting,George Roy Hill,8.3,1973,129,PG-13
+116,"['One-Person Army Action', 'Action', 'Holiday', 'Thriller']",72,117. Die Hard,John McTiernan,8.2,1988,132,18+
+117,"['Adventure Epic', 'Desert Adventure', 'Globetrotting Adventure', 'Quest', 'Action', 'Adventure']",65,118. Indiana Jones and the Last Crusade,Steven Spielberg,8.2,1989,127,PG-13
+118,"['Drama', 'Family']",N/A,119. Like Stars on Earth,Aamir Khan,8.3,2007,162,PG-13
+119,"['Dystopian Sci-Fi', 'Epic', 'Sci-Fi Epic', 'Steampunk', 'Drama', 'Sci-Fi']",98,120. Metropolis,Fritz Lang,8.3,1927,153,PG-13
+120,"['Caper', 'Dark Comedy', 'Gangster', 'Comedy', 'Crime']",55,121. Snatch,Guy Ritchie,8.2,2000,104,18+
+121,"['Epic', 'Period Drama', 'War Epic', 'Action', 'Drama', 'History', 'War']",78,122. 1917,Sam Mendes,8.2,2019,119,15+
+122,"['Conspiracy Thriller', 'Cop Drama', 'Hard-boiled Detective', 'Police Procedural', 'Suspense Mystery', 'Whodunnit', 'Crime', 'Drama', 'Mystery', 'Thriller']",91,123. L.A. Confidential,Curtis Hanson,8.2,1997,138,18+
+123,"['Tragedy', 'Drama']",N/A,124. Bicycle Thieves,Vittorio De Sica,8.3,1948,89,U
+124,"['Biography', 'Drama', 'History', 'Musical']",88,125. Hamilton,Thomas Kail,8.3,2020,160,12+
+125,"['Docudrama', 'Political Drama', 'Biography', 'Drama', 'History', 'War']",82,126. Downfall,Oliver Hirschbiegel,8.2,2004,156,15+
+126,"['Psychological Drama', 'Crime', 'Drama']",94,127. Taxi Driver,Martin Scorsese,8.2,1976,114,18+
+127,"['Action', 'Biography', 'Drama', 'Sport']",N/A,128. Dangal,Nitesh Tiwari,8.3,2016,161,PG-13
+128,"['Action Epic', 'Epic', 'Superhero', 'Tragedy', 'Action', 'Crime', 'Drama']",70,129. Batman Begins,Christopher Nolan,8.2,2005,140,12A
+129,"['Dark Comedy', 'Satire', 'True Crime', 'Biography', 'Comedy', 'Crime', 'Drama', 'Financial Drama']",75,130. The Wolf of Wall Street,Martin Scorsese,8.2,2013,0,18+
+130,"['One-Person Army Action', 'Spaghetti Western', 'Drama', 'Western']",74,131. For a Few Dollars More,Sergio Leone,8.2,1965,132,15+
+131,"['Docudrama', 'Period Drama', 'Road Trip', 'Biography', 'Comedy', 'Drama', 'Music']",69,132. Green Book,Peter Farrelly,8.2,2018,130,12A
+132,"['Buddy Comedy', 'Farce', 'Screwball Comedy', 'Comedy', 'Music', 'Romance']",98,133. Some Like It Hot,Billy Wilder,8.2,1959,121,A
+133,"['High-Concept Comedy', 'Psychological Drama', 'Satire', 'Showbiz Drama', 'Comedy', 'Drama']",90,134. The Truman Show,Peter Weir,8.2,1998,103,PG-13
+134,"['Drama', 'War']",60,135. Judgment at Nuremberg,Stanley Kramer,8.3,1961,179,PG-13
+135,"['Buddy Comedy', 'Slapstick', 'Comedy', 'Drama', 'Family']",N/A,136. The Kid,Charles Chaplin,8.2,1921,68,U
+136,"['Psychological Drama', 'Drama', 'Mystery']",88,137. The Father,Florian Zeller,8.2,2020,97,12A
+137,"['Showbiz Drama', 'Drama']",98,138. All About Eve,Joseph L. Mankiewicz,8.2,1950,138,PG-13
+138,"['Psychological Thriller', 'Suspense Mystery', 'Drama', 'Mystery', 'Thriller']",63,139. Shutter Island,Martin Scorsese,8.2,2010,138,15+
+139,"['Epic', 'Period Drama', 'Psychological Drama', 'Tragedy', 'Drama']",93,140. There Will Be Blood,Paul Thomas Anderson,8.2,2007,158,12A
+140,"['Dinosaur Adventure', 'Jungle Adventure', 'Action', 'Adventure', 'Sci-Fi', 'Thriller']",68,141. Jurassic Park,Steven Spielberg,8.2,1993,127,PG-13
+141,"['Docudrama', 'Epic', 'Gangster', 'True Crime', 'Crime', 'Drama']",73,142. Casino,Martin Scorsese,8.2,1995,178,18+
+142,"['Action Epic', 'Epic', 'Action', 'Drama']",78,143. Top Gun: Maverick,Joseph Kosinski,8.2,2022,130,12A
+143,"['Samurai', 'Tragedy', 'War Epic', 'Action', 'Drama', 'War']",97,144. Ran,Akira Kurosawa,8.2,1985,160,15+
+144,"['Psychological Drama', 'Psychological Thriller', 'Suspense Mystery', 'Drama', 'Mystery', 'Thriller']",64,145. The Sixth Sense,M. Night Shyamalan,8.2,1999,107,15+
+145,"['Coming-of-Age', 'Dark Fantasy', 'Fairy Tale', 'Period Drama', 'Supernatural Fantasy', 'Teen Fantasy', 'Tragedy', 'Drama', 'Fantasy', 'War']",98,146. Pan's Labyrinth,Guillermo del Toro,8.2,2006,118,15+
+146,"['Tragedy', 'Drama', 'Western']",85,147. Unforgiven,Clint Eastwood,8.2,1992,130,15+
+147,"['Contemporary Western', 'Serial Killer', 'Crime', 'Drama', 'Thriller']",92,148. No Country for Old Men,Ethan Coen,8.2,2007,122,15+
+148,"['Alien Invasion', 'Body Horror', 'Monster Horror', 'Supernatural Horror', 'Tragedy', 'Horror', 'Mystery', 'Sci-Fi']",57,149. The Thing,John Carpenter,8.2,1982,109,X
+149,"['Docudrama', 'Period Drama', 'Psychological Drama', 'Biography', 'Drama', 'Mystery']",72,150. A Beautiful Mind,Ron Howard,8.2,2001,135,12+
+150,"['Martial Arts', 'One-Person Army Action', 'Action', 'Crime', 'Thriller']",69,151. Kill Bill: Vol. 1,Quentin Tarantino,8.2,2003,111,18+
+151,"['Tragedy', 'Adventure', 'Drama', 'Western']",98,152. The Treasure of the Sierra Madre,John Huston,8.2,1948,126,PG-13
+152,"['One-Person Army Action', 'Period Drama', 'Samurai', 'Action', 'Drama', 'Thriller']",93,153. Yojimbo,Akira Kurosawa,8.2,1961,110,PG-13
+153,"['Period Drama', 'Prison Drama', 'War Epic', 'Adventure', 'Drama', 'Thriller', 'War']",86,154. The Great Escape,John Sturges,8.2,1963,172,PG-13
+154,"['Animal Adventure', 'Buddy Comedy', 'Computer Animation', 'Quest', 'Sea Adventure', 'Adventure', 'Animation', 'Comedy', 'Family']",90,155. Finding Nemo,Andrew Stanton,8.2,2003,100,U
+155,"['Parody', 'Quest', 'Sketch Comedy', 'Slapstick', 'Sword & Sorcery', 'Adventure', 'Comedy', 'Fantasy']",91,156. Monty Python and the Holy Grail,Terry Gilliam,8.2,1975,91,12A
+156,"['Psychological Thriller', 'Suspense Mystery', 'Crime', 'Drama', 'Mystery', 'Thriller']",70,157. Prisoners,Denis Villeneuve,8.2,2013,153,15+
+157,"['Adventure Epic', 'Anime', 'Hand-Drawn Animation', 'Supernatural Fantasy', 'Adventure', 'Animation', 'Family', 'Fantasy']",82,158. Howl's Moving Castle,Hayao Miyazaki,8.2,2004,119,U
+158,"['Docudrama', 'Period Drama', 'Tragedy', 'Biography', 'Drama']",78,159. The Elephant Man,David Lynch,8.2,1980,124,PG-13
+159,"['Crime', 'Drama', 'Mystery']",98,160. Rashomon,Akira Kurosawa,8.2,1950,88,X
+160,"['Crime', 'Thriller']",75,161. Dial M for Murder,Alfred Hitchcock,8.2,1954,105,PG-13
+161,"['Conspiracy Thriller', 'Hard-boiled Detective', 'Psychological Drama', 'Psychological Thriller', 'Tragedy', 'Drama', 'Mystery', 'Thriller']",92,162. Chinatown,Roman Polanski,8.1,1974,130,X
+162,"['Epic', 'Romantic Epic', 'Tragic Romance', 'War Epic', 'Drama', 'Romance', 'War']",97,163. Gone with the Wind,Victor Fleming,8.2,1939,238,PG-13
+163,"['Dark Romance', 'Erotic Thriller', 'Legal Thriller', 'Period Drama', 'Psychological Drama', 'Psychological Thriller', 'Suspense Mystery', 'Tragedy', 'Whodunnit', 'Drama']",80,164. The Secret in Their Eyes,Juan José Campanella,8.2,2009,129,18+
+164,"['Farce', 'Action', 'Comedy', 'Crime']",67,"165. Lock, Stock and Two Smoking Barrels",Guy Ritchie,8.1,1998,107,18+
+165,"['Coming-of-Age', 'Computer Animation', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",94,166. Inside Out,Pete Docter,8.1,2015,95,U
+166,"['Dystopian Sci-Fi', 'Political Thriller', 'Superhero', 'Action', 'Drama', 'Sci-Fi', 'Thriller']",62,167. V for Vendetta,James McTeigue,8.1,2005,132,15+
+167,"['Dark Comedy', 'Satire', 'Comedy', 'Crime', 'Drama']",88,"168. Three Billboards Outside Ebbing, Missouri",Martin McDonagh,8.1,2017,115,15+
+168,"['Boxing', 'Biography', 'Drama', 'Sport']",90,169. Raging Bull,Martin Scorsese,8.1,1980,129,X
+169,"['Dark Comedy', 'Psychological Drama', 'Drama']",83,170. Trainspotting,Danny Boyle,8.1,1996,93,18+
+170,"['Jungle Adventure', 'War Epic', 'Adventure', 'Drama', 'War']",88,171. The Bridge on the River Kwai,David Lean,8.1,1957,161,PG-13
+171,"['Hand-Drawn Animation', 'Holiday Animation', 'Holiday Comedy', 'Holiday Family', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Holiday']",65,172. Klaus,Sergio Pablos,8.2,2019,96,PG-13
+172,"['Caper', 'Coming-of-Age', 'Docudrama', 'Period Drama', 'True Crime', 'Biography', 'Crime', 'Drama']",75,173. Catch Me If You Can,Steven Spielberg,8.1,2002,141,12A
+173,"['Cop Drama', 'Dark Comedy', 'Police Procedural', 'Tragedy', 'Crime', 'Thriller']",88,174. Fargo,Joel Coen,8.1,1996,98,18+
+174,"['Boxing', 'Action', 'Drama', 'Sport']",71,175. Warrior,Gavin O'Connor,8.1,2011,140,12A
+175,"['Superhero', 'Supernatural Fantasy', 'Urban Adventure', 'Action', 'Adventure', 'Fantasy', 'Sci-Fi']",71,176. Spider-Man: No Way Home,Jon Watts,8.2,2021,148,12A
+176,['Drama'],73,177. Gran Torino,Clint Eastwood,8.1,2008,116,15+
+177,"['Dark Fantasy', 'Teen Adventure', 'Teen Fantasy', 'Adventure', 'Family', 'Fantasy', 'Mystery']",85,178. Harry Potter and the Deathly Hallows: Part 2,David Yates,8.1,2011,130,12A
+178,"['Boxing', 'Tragedy', 'Drama', 'Sport']",86,179. Million Dollar Baby,Clint Eastwood,8.1,2004,132,12A
+179,"['Anime', 'Hand-Drawn Animation', 'Iyashikei', 'Animation', 'Comedy', 'Family', 'Fantasy']",87,180. My Neighbour Totoro,Hayao Miyazaki,8.1,1988,86,U
+180,"['Action Epic', 'Adventure Epic', 'Car Action', 'Desert Adventure', 'Dystopian Sci-Fi', 'Quest', 'Road Trip', 'Action', 'Adventure', 'Sci-Fi']",90,181. Mad Max: Fury Road,George Miller,8.1,2015,0,15+
+181,"['Drama', 'Family', 'Sport']",77,182. Children of Heaven,Majid Majidi,8.2,1997,89,PG-13
+182,"['Adventure Epic', 'Epic', 'Sword & Sandal', 'Adventure', 'Drama']",90,183. Ben-Hur,William Wyler,8.1,1959,212,PG-13
+183,"['Epic', 'Biography', 'Drama', 'History']",96,184. 12 Years a Slave,Steve McQueen,8.1,2013,134,15+
+184,"['Adventure', 'Drama', 'War']",89,185. Barry Lyndon,Stanley Kubrick,8.1,1975,185,PG-13
+185,"['Artificial Intelligence', 'Cyber Thriller', 'Cyberpunk', 'Dystopian Sci-Fi', 'Action', 'Drama', 'Sci-Fi', 'Thriller']",84,186. Blade Runner,Ridley Scott,8.1,1982,117,AA
+186,"['Drama', 'Romance']",78,187. Before Sunrise,Richard Linklater,8.1,1995,101,15+
+187,"['Caper', 'Quirky Comedy', 'Adventure', 'Comedy', 'Crime']",88,188. The Grand Budapest Hotel,Wes Anderson,8.1,2014,99,15+
+188,"['Period Drama', 'Biography', 'Drama', 'History', 'War']",71,189. Hacksaw Ridge,Mel Gibson,8.1,2016,139,15+
+189,"['Erotic Thriller', 'Psychological Drama', 'Psychological Thriller', 'Suspense Mystery', 'Tragedy', 'Drama', 'Mystery', 'Thriller']",79,190. Gone Girl,David Fincher,8.1,2014,149,18+
+190,"['Coming-of-Age', 'Teen Drama', 'Comedy', 'Drama']",79,191. Dead Poets Society,Peter Weir,8.1,1989,128,PG-13
+191,"['Action', 'Crime', 'Drama', 'Thriller']",N/A,192. Maharaja,Nithilan Saminathan,8.5,2024,141,15+
+192,"['Dark Comedy', 'Police Procedural', 'Serial Killer', 'True Crime', 'Crime', 'Drama', 'Mystery', 'Thriller']",82,193. Memories of Murder,Bong Joon Ho,8.1,2003,131,15+
+193,"['Docudrama', 'Legal Drama', 'Period Drama', 'Prison Drama', 'Tragedy', 'True Crime', 'Biography', 'Crime', 'Drama']",84,194. In the Name of the Father,Jim Sheridan,8.1,1993,133,15+
+194,"['Farce', 'Feel-Good Romance', 'Romantic Comedy', 'Slapstick', 'Adventure', 'Comedy', 'Drama', 'Romance', 'Western']",N/A,195. The Gold Rush,Charles Chaplin,8.1,1925,95,U
+195,"['Buddy Comedy', 'Computer Animation', 'Supernatural Fantasy', 'Urban Adventure', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",79,"196. Monsters, Inc.",Pete Docter,8.1,2001,92,U
+196,"['Dark Comedy', 'Comedy', 'Drama', 'Thriller']",77,197. Wild Tales,Damián Szifron,8.1,2014,122,15+
+197,"['War Epic', 'Drama', 'War']",90,198. The Deer Hunter,Michael Cimino,8.1,1978,183,X
+198,"['Animal Adventure', 'Computer Animation', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",96,199. Ratatouille,Brad Bird,8.1,2007,111,PG-13
+199,"['Farce', 'Slapstick', 'Action', 'Adventure', 'Comedy', 'Drama', 'War']",N/A,200. The General,Clyde Bruckman,8.1,1926,78,U
+200,"['Bumbling Detective', 'Farce', 'Feel-Good Romance', 'Romantic Comedy', 'Slapstick', 'Action', 'Comedy', 'Romance']",N/A,201. Sherlock Jr.,Buster Keaton,8.2,1924,18,U
+201,"['Sea Adventure', 'Survival', 'Adventure', 'Drama', 'Thriller']",87,202. Jaws,Steven Spielberg,8.1,1975,124,PG-13
+202,"['Computer Animation', 'Sword & Sorcery', 'Teen Fantasy', 'Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",75,203. How to Train Your Dragon,Dean DeBlois,8.1,2010,98,PG-13
+203,"['Crime', 'Drama', 'Thriller']",91,204. On the Waterfront,Elia Kazan,8.1,1954,108,PG-13
+204,"['Adult Animation', 'Dark Comedy', 'Stop Motion Animation', 'Animation', 'Comedy', 'Drama']",72,205. Mary and Max,Adam Elliot,8.1,2009,92,12A
+205,"['Psychological Drama', 'Survival', 'Adventure', 'Drama', 'Thriller']",85,206. The Wages of Fear,Henri-Georges Clouzot,8.1,1953,156,PG-13
+206,"['Docudrama', 'Motorsport', 'Action', 'Biography', 'Drama', 'Sport']",81,207. Le Mans '66,James Mangold,8.1,2019,152,12A
+207,"['Psychological Drama', 'Drama', 'Romance']",88,208. Wild Strawberries,Ingmar Bergman,8.1,1957,92,PG-13
+208,"['Political Drama', 'Comedy', 'Drama']",73,209. Mr. Smith Goes to Washington,Frank Capra,8.1,1939,129,U
+209,"['Film Noir', 'Hard-boiled Detective', 'Whodunnit', 'Mystery', 'Thriller']",97,210. The Third Man,Carol Reed,8.1,1949,104,PG-13
+210,"['Dystopian Sci-Fi', 'Road Trip', 'Superhero', 'Action', 'Drama', 'Sci-Fi', 'Thriller']",77,211. Logan,James Mangold,8.1,2017,137,15+
+211,"['Boxing', 'Drama', 'Sport']",70,212. Rocky,John G. Avildsen,8.1,1976,0,PG-13
+212,"['Psychological Drama', 'Drama']",100,213. Tokyo Story,Yasujirô Ozu,8.1,1953,136,U
+213,"['Satire', 'Stoner Comedy', 'Comedy', 'Crime']",71,214. The Big Lebowski,Joel Coen,8.1,1998,117,18+
+214,"['Psychological Drama', 'Drama', 'Fantasy']",88,215. The Seventh Seal,Ingmar Bergman,8.1,1957,96,PG-13
+215,"['Psychological Drama', 'Drama', 'Thriller']",86,216. Room,Lenny Abrahamson,8.1,2015,118,15+
+216,"['Docudrama', 'Legal Drama', 'Period Drama', 'True Crime', 'Workplace Drama', 'Biography', 'Crime', 'Drama']",93,217. Spotlight,Tom McCarthy,8.1,2015,129,15+
+217,"['Artificial Intelligence', 'Cyberpunk', 'Dystopian Sci-Fi', 'Time Travel', 'Action', 'Adventure', 'Sci-Fi']",84,218. The Terminator,James Cameron,8.1,1984,107,18+
+218,"['Docudrama', 'Biography', 'Drama', 'History', 'War']",79,219. Hotel Rwanda,Terry George,8.1,2004,121,12A
+219,"['Drama', 'War']",92,220. Platoon,Oliver Stone,8.1,1986,0,15+
+220,"['Sea Adventure', 'Supernatural Fantasy', 'Swashbuckler', 'Sword & Sandal', 'Action', 'Adventure', 'Fantasy']",63,221. Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,8.1,2003,143,12A
+221,"['Gangster', 'Psychological Drama', 'Crime', 'Drama']",N/A,222. La haine,Mathieu Kassovitz,8.1,1995,98,15+
+222,"['Drama', 'Romance']",91,223. Before Sunset,Richard Linklater,8.1,2004,80,15+
+223,"['Legal Drama', 'Period Drama', 'Psychological Drama', 'Tragedy', 'Biography', 'Drama', 'History']",98,224. The Passion of Joan of Arc,Carl Theodor Dreyer,8.1,1928,110,PG-13
+224,"['Crime', 'Drama', 'Mystery']",N/A,225. Jai Bhim,T.J. Gnanavel,8.7,2021,164,Not Rated
+225,"['Epic', 'Feel-Good Romance', 'Drama', 'Romance', 'War']",93,226. The Best Years of Our Lives,William Wyler,8.1,1946,170,U
+226,"['Supernatural Horror', 'Horror']",83,227. The Exorcist,William Friedkin,8.1,1973,122,X
+227,"['Docudrama', 'Motorsport', 'Action', 'Biography', 'Drama', 'Sport']",74,228. Rush,Ron Howard,8.1,2013,123,15+
+228,"['Computer Animation', 'Superhero', 'Urban Adventure', 'Action', 'Adventure', 'Animation', 'Family']",90,229. The Incredibles,Brad Bird,8.0,2004,115,PG-13
+229,"['Workplace Drama', 'Drama']",83,230. Network,Sidney Lumet,8.1,1976,121,AA
+230,"['Classic Musical', 'Fairy Tale', 'Fantasy Epic', 'Quest', 'Adventure', 'Family', 'Fantasy', 'Musical']",92,231. The Wizard of Oz,Victor Fleming,8.1,1939,102,A
+231,"['Coming-of-Age', 'Adventure', 'Comedy', 'Drama']",75,232. Stand by Me,Rob Reiner,8.1,1986,89,15+
+232,"['Animal Adventure', 'Biography', 'Drama', 'Family']",N/A,233. Hachi: A Dog's Tale,Lasse Hallström,8.1,2009,93,U
+233,"['Classic Musical', 'Biography', 'Drama', 'Family', 'Musical', 'Romance']",63,234. The Sound of Music,Robert Wise,8.1,1965,172,U
+234,"['Drama', 'Family']",N/A,235. My Father and My Son,Çagan Irmak,8.2,2005,112,PG-13
+235,"['Dark Romance', 'Erotic Thriller', 'Psychological Thriller', 'Steamy Romance', 'Drama', 'Romance', 'Thriller']",85,236. The Handmaiden,Park Chan-wook,8.1,2016,145,18+
+236,"['Screwball Comedy', 'Comedy', 'Romance', 'War']",86,237. To Be or Not to Be,Ernst Lubitsch,8.1,1942,99,U
+237,"['Coming-of-Age', 'Docudrama', 'Road Trip', 'Survival', 'Tragedy', 'Adventure', 'Biography', 'Drama']",73,238. Into the Wild,Sean Penn,8.1,2007,148,15+
+238,"['Docudrama', 'Political Drama', 'Drama', 'War']",96,239. The Battle of Algiers,Gillo Pontecorvo,8.1,1966,121,X
+239,"['Alien Invasion', 'Artificial Intelligence', 'Hand-Drawn Animation', 'High-Concept Comedy', 'Kaiju', 'Space Sci-Fi', 'Action', 'Adventure', 'Animation', 'Comedy']",85,240. The Iron Giant,Brad Bird,8.1,1999,86,PG-13
+240,"['Feel-Good Romance', 'High-Concept Comedy', 'Holiday Comedy', 'Holiday Romance', 'Romantic Comedy', 'Comedy', 'Drama', 'Fantasy', 'Romance']",72,241. Groundhog Day,Harold Ramis,8.0,1993,101,PG-13
+241,['Drama'],96,242. The Grapes of Wrath,John Ford,8.1,1940,129,PG-13
+242,"['Tragedy', 'Drama', 'Thriller']",83,243. Amores perros,Alejandro G. Iñárritu,8.0,2000,154,18+
+243,"['Dark Romance', 'Psychological Thriller', 'Drama', 'Mystery', 'Romance', 'Thriller']",86,244. Rebecca,Alfred Hitchcock,8.1,1940,130,PG-13
+244,"['Period Drama', 'Drama']",62,245. The Help,Tate Taylor,8.1,2011,146,12A
+245,"['Prison Drama', 'Tragedy', 'Crime', 'Drama']",92,246. Cool Hand Luke,Stuart Rosenberg,8.1,1967,127,A
+246,"['Road Trip', 'Romantic Comedy', 'Screwball Comedy', 'Comedy', 'Romance']",87,247. It Happened One Night,Frank Capra,8.1,1934,105,A
+247,"['True Crime', 'Action', 'Comedy', 'Crime', 'Drama', 'Thriller']",89,248. Gangs of Wasseypur,Anurag Kashyap,8.2,2012,321,18+
+248,"['Crime', 'Drama', 'Mystery', 'Thriller']",N/A,249. Drishyam,Nishikant Kamat,8.2,2015,163,12A
+249,"['Crime', 'Mystery', 'Thriller']",N/A,250. Andhadhun,Sriram Raghavan,8.2,2018,139,12A
